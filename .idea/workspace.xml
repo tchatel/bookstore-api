@@ -2,22 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d3a9c8c-00af-4495-ba8b-f492de8e8a7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/bookstore-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sfbooks/58428a14734d1d2b0ced5760.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sfbooks/58428a3c734d1d2b0ced5768.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sfbooks/58428a57734d1d2b0ced5770.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sfbooks/58428a75734d1d2b0ced577a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sfbooks/58428a8e734d1d2b0ced577e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sfbooks/58428aab734d1d2b0ced5782.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sfbooks/58428aca734d1d2b0ced578e.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sfbooks/58428af6734d1d2b0ced5792.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sfbooks/58428b1a734d1d2b0ced5797.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sfbooks/58428b74734d1d2b0ced57a0.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sfbooks/58428b90734d1d2b0ced57ac.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sfbooks/58428bab734d1d2b0ced57ae.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sfbooks/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfbooks/58428a14734d1d2b0ced5760/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfbooks/58428a3c734d1d2b0ced5768/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfbooks/58428a57734d1d2b0ced5770/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfbooks/58428a75734d1d2b0ced577a/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfbooks/58428a8e734d1d2b0ced577e/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfbooks/58428aab734d1d2b0ced5782/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfbooks/58428aca734d1d2b0ced578e/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfbooks/58428af6734d1d2b0ced5792/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfbooks/58428b1a734d1d2b0ced5797/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfbooks/58428b74734d1d2b0ced57a0/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfbooks/58428b90734d1d2b0ced57ac/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfbooks/58428bab734d1d2b0ced57ae/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfbooks/58428c11734d1d2b0ced57c8/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sfbooks/58428a14734d1d2b0ced5760.json" beforeDir="false" afterPath="$PROJECT_DIR$/sfbooks/58428a14734d1d2b0ced5760.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sfbooks/58428a3c734d1d2b0ced5768.json" beforeDir="false" afterPath="$PROJECT_DIR$/sfbooks/58428a3c734d1d2b0ced5768.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sfbooks/58428a57734d1d2b0ced5770.json" beforeDir="false" afterPath="$PROJECT_DIR$/sfbooks/58428a57734d1d2b0ced5770.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sfbooks/58428a75734d1d2b0ced577a.json" beforeDir="false" afterPath="$PROJECT_DIR$/sfbooks/58428a75734d1d2b0ced577a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sfbooks/58428a8e734d1d2b0ced577e.json" beforeDir="false" afterPath="$PROJECT_DIR$/sfbooks/58428a8e734d1d2b0ced577e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sfbooks/58428aab734d1d2b0ced5782.json" beforeDir="false" afterPath="$PROJECT_DIR$/sfbooks/58428aab734d1d2b0ced5782.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sfbooks/58428aca734d1d2b0ced578e.json" beforeDir="false" afterPath="$PROJECT_DIR$/sfbooks/58428aca734d1d2b0ced578e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sfbooks/58428af6734d1d2b0ced5792.json" beforeDir="false" afterPath="$PROJECT_DIR$/sfbooks/58428af6734d1d2b0ced5792.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sfbooks/58428b1a734d1d2b0ced5797.json" beforeDir="false" afterPath="$PROJECT_DIR$/sfbooks/58428b1a734d1d2b0ced5797.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sfbooks/58428b74734d1d2b0ced57a0.json" beforeDir="false" afterPath="$PROJECT_DIR$/sfbooks/58428b74734d1d2b0ced57a0.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sfbooks/58428b90734d1d2b0ced57ac.json" beforeDir="false" afterPath="$PROJECT_DIR$/sfbooks/58428b90734d1d2b0ced57ac.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sfbooks/58428bab734d1d2b0ced57ae.json" beforeDir="false" afterPath="$PROJECT_DIR$/sfbooks/58428bab734d1d2b0ced57ae.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sfbooks/58428c11734d1d2b0ced57c8.json" beforeDir="false" afterPath="$PROJECT_DIR$/sfbooks/58428c11734d1d2b0ced57c8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sfbooks/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/sfbooks/index.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +37,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hwxGIighkynVdJ4cgnVheQ1xoj" />
@@ -43,6 +60,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -57,17 +75,49 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600935858837</updated>
-      <workItem from="1600935860000" duration="591000" />
+      <workItem from="1600935860000" duration="1439000" />
     </task>
+    <task id="LOCAL-00001" summary="json data &amp; images">
+      <created>1600936599675</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600936599675</updated>
+    </task>
+    <task id="LOCAL-00002" summary="readme">
+      <created>1600936664304</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600936664304</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="json data &amp; images" />
+    <MESSAGE value="readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="931" y="529" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600936209370">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="931" y="529" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1440/2560.427.1680.1050@0.0.2560.1440" timestamp="1600936209370" />
+    <state x="857" y="295" key="CommitChangelistDialog2" timestamp="1600936664208">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="857" y="295" key="CommitChangelistDialog2/0.0.2560.1440/2560.427.1680.1050@0.0.2560.1440" timestamp="1600936664208" />
+    <state x="880" y="460" key="Vcs.Push.Dialog.v2" timestamp="1600936665982">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="880" y="460" key="Vcs.Push.Dialog.v2/0.0.2560.1440/2560.427.1680.1050@0.0.2560.1440" timestamp="1600936665982" />
+    <state x="981" y="446" width="598" height="604" key="find.popup" timestamp="1600937556217">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="981" y="446" width="598" height="604" key="find.popup/0.0.2560.1440/2560.427.1680.1050@0.0.2560.1440" timestamp="1600937556217" />
   </component>
 </project>
